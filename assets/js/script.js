@@ -45,7 +45,7 @@ var secondsLeft = 76;
 // Holds interval time
 var holdInterval = 0;
 // Holds penalty time
-var penalty = 10;
+var penalty = 15;
 // Creates new element
 var ulCreate = document.createElement("ul");
 
