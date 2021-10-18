@@ -13,3 +13,7 @@ After completing the quiz the user is able to view his score. Add their initals 
 User can also click the View High Scores link to view high scores. 
 
 Live URL: https://masudahmed88.github.io/CodeQuiz/
+
+
+
+![image](https://user-images.githubusercontent.com/87885450/137782829-b88dc22f-7669-42dc-9309-6cd0caa08a62.png)
